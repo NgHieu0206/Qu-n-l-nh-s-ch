@@ -1,0 +1,11 @@
+admin
+usename: hatien
+pass: 123
+
+saleman
+username: haiyen
+pass: haiyen123
+
+stocker
+username: viettruong
+pass: viettruong123
